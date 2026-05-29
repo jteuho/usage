@@ -1,7 +1,7 @@
 name: zizmor
 on:
-  push:
-    branches: [main]
+  # push:
+  #   branches: [main]
   pull_request:
     paths: [".github/workflows/**"]
 
